@@ -1,1 +1,3 @@
-# FinancialProject1
+# FinancialProject
+## 1. 국내 금융구조 하에서 은행의 자산운용행태가 금융안정에 미치는 영향
+## 2. WTI 가격 예측 모델
